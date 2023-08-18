@@ -1,0 +1,40 @@
+.head{
+    text-align: center;
+    color: mintcream;
+    background-color: #A2678A;
+}
+.table{
+    margin-left: 30%;
+    padding: 10px;
+}
+.image{
+    padding-right: 10px;
+}
+.body{
+    background-color: E19898;
+}
+.display{
+    color: #3F1D38;
+}
+.edu{
+    background-color: #4D3C77;
+    color: whitesmoke;
+    padding: 20px;
+}
+.skill{
+    background-color: #974EC3;
+    color: whitesmoke;
+    padding: 20px;
+}
+.table2{
+    margin:0px 600px;
+    align-items: center;
+}
+.info{
+    background-color: #F79BD3;
+    color: aliceblue;
+    padding: 20px;
+}
+.table3{
+    padding:20px;
+}
